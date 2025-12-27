@@ -82,7 +82,7 @@ Example:
 
 ## 1. Clone the repository:
 
-git clone https://github.com/<your-username>/time-series-forecasting-inflation.git
+git clone https://github.com/jahid1066/Time-Series-Forecasting-Inflation.git
 
 cd time-series-forecasting-inflation
 
